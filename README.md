@@ -9,44 +9,44 @@ In this project analysis, I use imbalanced-learn and scikit-learn libraries to b
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results
 
 ### Naive Random Oversampling
-Balanced Accuracy: 0.7844011748069183
-Precision: The precision is low for high_risk loans and is high for low_risk loans.
-Recall: High risk: .60 and low risk: .65
+Balanced Accuracy: 0.7844011748069183 <br>
+Precision: The precision is low for high_risk loans and is high for low_risk loans <br>
+Recall: High risk: .60 and low risk: .65 <br>
 
 ![Naive Random Oversampling](https://github.com/jinnabelle/Credit_Risk_Analysis/blob/main/Random%20Oversampling.png)
 
 ### SMOTE Oversampling
-Balanced Accuracy: 0.6512584051472337
-Precision: The precision is low for high_risk loans and is high for low_risk loans.
-Recall: High risk: .64 and Low risk: .66
+Balanced Accuracy: 0.6512584051472337 <br>
+Precision: The precision is low for high_risk loans and is high for low_risk loans <br>
+Recall: High risk: .64 and Low risk: .66 <br>
 
 ![Smote Oversampling](https://github.com/jinnabelle/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling.png)
 
 ### Undersampling
-Balanced Accuracy: 0.5902911232781787
-Precision: The precision is low for high_risk loans and is high for low_risk loans.
-Recall: High risk:.59 and low risk:.43
+Balanced Accuracy: 0.5902911232781787 <br>
+Precision: The precision is low for high_risk loans and is high for low_risk loans <br>
+Recall: High risk:.59 and low risk:.43 <br>
 
 ![Undersampling](https://github.com/jinnabelle/Credit_Risk_Analysis/blob/main/Undersampling.png)
 
 ### Combination (Over and Under) Sampling
-Balanced Accuracy: 0.5103017191018931
-Precision: The precision is low for high_risk loans and is high for low_risk loans.
-Recall: High risk: .70 and low risk:.57
+Balanced Accuracy: 0.5103017191018931 <br>
+Precision: The precision is low for high_risk loans and is high for low_risk loans <br>
+Recall: High risk: .70 and low risk:.57 <br>
 
 ![Combination Over and Under Sampling](https://github.com/jinnabelle/Credit_Risk_Analysis/blob/main/Combination%20(Over%20and%20Under)%20sampling.png)
 
 ### Balanced Random Forest Classifier
-Balanced Accuracy: 0.7844011748069183
-Precision: The precision is low for high_risk loans and is high for low_risk loans.
-Recall: High risk: .68 and low risk:.89
+Balanced Accuracy: 0.7844011748069183 <br>
+Precision: The precision is low for high_risk loans and is high for low_risk loans <br>
+Recall: High risk: .68 and low risk:.89 <br>
 
 ![Balanced Random Forest Classifier](https://github.com/jinnabelle/Credit_Risk_Analysis/blob/main/Balanced%20Random%20Forest%20Classifier.png)
 
 ### AdaBoost Classifier
-Balanced Accuracy: 0.925427358175101
-Precision: The precision is low for high_risk loans and is high for low_risk loans.
-Recall: High risk: .91 and low risk: .94
+Balanced Accuracy: 0.925427358175101 <br>
+Precision: The precision is low for high_risk loans and is high for low_risk loans <br>
+Recall: High risk: .91 and low risk: .94 <br>
 
 ![Adaboost Classifier](https://github.com/jinnabelle/Credit_Risk_Analysis/blob/main/AdaBoost%20Classifer.png)
 
